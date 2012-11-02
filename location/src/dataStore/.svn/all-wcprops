@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/58/location/src/dataStore
+END
+CompassData.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/30/location/src/dataStore/CompassData.java
+END
+DefinedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/30/location/src/dataStore/DefinedEvent.java
+END
+SimpleLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/58/location/src/dataStore/SimpleLocation.java
+END
+Data.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/30/location/src/dataStore/Data.java
+END
+RunningData.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/30/location/src/dataStore/RunningData.java
+END
+AudioData.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/30/location/src/dataStore/AudioData.java
+END
+StorePolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/30/location/src/dataStore/StorePolicy.java
+END

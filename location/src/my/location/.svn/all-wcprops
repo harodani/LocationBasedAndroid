@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/58/location/src/my/location
+END
+XMLService.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/30/location/src/my/location/XMLService.java
+END
+OrientationDetectionThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/44/location/src/my/location/OrientationDetectionThread.java
+END
+LocationActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/34/location/src/my/location/LocationActivity.java
+END
+RecordThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/38/location/src/my/location/RecordThread.java
+END
+SensorActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/34/location/src/my/location/SensorActivity.java
+END
+AudioRecorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/38/location/src/my/location/AudioRecorder.java
+END
+GPSUpdateManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/57/location/src/my/location/GPSUpdateManager.java
+END
+LocationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/58/location/src/my/location/LocationService.java
+END
